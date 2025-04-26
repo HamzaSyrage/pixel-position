@@ -1,5 +1,7 @@
 # pixel-position
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://pixel-position-production-3448.up.railway.app/)
+
 This is a simple job board application built with **Laravel**, using **Blade** for templating and **Tailwind CSS** for styling. It allows users to view jobs, register and log in, and post jobs if authenticated.
 
 ---
@@ -22,7 +24,7 @@ This is a simple job board application built with **Laravel**, using **Blade** f
 - **Styling**: Tailwind CSS  
 - **Authentication**: Laravel Breeze / Custom Auth Logic  
 - **Authorization**: Laravel Policies  
-- **Database**:  Sqlite  
+- **Database**:  MySql  
 
 ---
 
