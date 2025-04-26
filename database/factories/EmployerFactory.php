@@ -19,7 +19,7 @@ class EmployerFactory extends Factory
     {
         return [
             'name' => fake()->company(),
-            'logo' => "logos/ybPHI1ikPhqiIJxhowUvmLEvqcvJM9thZfJHnKas.png",
+            'logo' => "https://as2.ftcdn.net/jpg/05/05/61/73/1000_F_505617309_NN1CW7diNmGXJfMicpY9eXHKV4sqzO5H.webp",
             'user_id' => User::factory(),
         ];
     }
